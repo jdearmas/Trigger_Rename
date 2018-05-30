@@ -38,7 +38,7 @@ addpath(genpath(pwd));
 %%  1.  Add the path of the file you want to change
 if gui == 1
     path    = raw_path();
-    fn      = matfile_path();
+    fn      = matfile_path(path);
     path_BS = brainstorm_path();
 elseif gui == 0
 else
