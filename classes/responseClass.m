@@ -1,4 +1,4 @@
-classdef response < trigger
+classdef responseClass < triggerClass
 	properties
 	end
 	methods

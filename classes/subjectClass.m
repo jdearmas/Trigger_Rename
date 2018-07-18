@@ -1,4 +1,4 @@
-classdef subject
+classdef subjectClass
 	properties
 		experiment
 		dob

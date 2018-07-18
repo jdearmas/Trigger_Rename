@@ -1,7 +1,5 @@
-classdef stimulus < trigger
+classdef stimulusClass < triggerClass
 	properties
-		time
-		name
 	end
 	methods
 	end

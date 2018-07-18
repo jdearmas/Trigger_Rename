@@ -1,8 +1,6 @@
-classdef eegdata
+classdef eegdataClass
 	properties
-		triggers
 		conditions
-		stimuli
 	end
 	methods
 	end

@@ -1,4 +1,4 @@
-classdef trigger
+classdef triggerClass
 	properties
 		time
 		type
